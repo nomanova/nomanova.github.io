@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="41px" viewBox="0 0 159 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4-Copy-9" transform="translate(-118.000000, -148.000000)">
+            <g id="Group-2" transform="translate(118.493520, 148.500000)">
+                <text id="nomanova" font-family="Futura-Medium, Futura" font-size="24" font-weight="400" fill="#45ACE3">
+                    <tspan x="45.0000028" y="25">nomanova</tspan>
+                </text>
+                <circle id="Oval" stroke="#45ACE3" stroke-width="3" cx="20" cy="20" r="18.5"></circle>
+                <polygon id="N" fill="#45ACE3" fill-rule="nonzero" points="12.6338833 25.580786 12.6338833 18.1945229 18.4339424 25.580786 21.5582836 25.580786 21.5582836 13.5 18.4339424 13.5 18.4339424 20.886263 12.6338833 13.5 9.49351988 13.5 9.49351988 25.580786"></polygon>
+                <polygon id="N" fill="#45ACE3" fill-rule="nonzero" points="21.5820799 25.580786 21.5820799 18.1945229 27.3821389 25.580786 30.5064801 25.580786 30.5064801 13.5 27.3821389 13.5 27.3821389 20.886263 21.5820799 13.5 18.4417164 13.5 18.4417164 25.580786"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
